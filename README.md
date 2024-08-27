@@ -1,7 +1,12 @@
-# Spotify_API
+# Spotify playlist saver
 
-Personal project 
+This is personal project created to save a temporary generated playlist to a user's account
 
-Created using python, the spotipy library and Flask
+## Prerequisits
+ - Python
+ - Spotipy Library
+ - Flask
 
-Python script that saves the Discovery Playlist of a user in a new playlist called Saved Weekly.
+
+
+
